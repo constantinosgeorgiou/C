@@ -1,6 +1,4 @@
-# C
-C snippets
+# C Playground
+Having fun experimenting with the c programming language.
 
-* [Pascal's Triangle](https://github.com/ConstantinosGeorgiou/C/blob/master/pascaltriangle.c)
-
-![Pascal's Triangle Terminal Image](https://github.com/ConstantinosGeorgiou/C/blob/master/pascal_triangle.png "Pascal's Triangle Terminal Image")
+Not a serious repo.
