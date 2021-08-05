@@ -1,0 +1,11 @@
+/// @page interfaces Interfaces
+/// @tableofcontents
+/// @section intro Introduction
+///
+/// This is some blah blah introduction asdfkahsdlfgkjhsdafglk asdfasdf
+/// 
+/// @section Available implementations
+/// 
+/// Dog:
+/// - golden-retriever/dog.c
+/// - labrador-retriever/dog.c
