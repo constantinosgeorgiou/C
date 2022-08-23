@@ -1,0 +1,3 @@
+Now you can write to file using printf()
+wow amazing
+even numbers 123456789
