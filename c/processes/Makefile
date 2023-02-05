@@ -15,10 +15,14 @@ multifork:
 forkfunc:
 	$(CC) $@.c --output $(BIN)/$@
 
+sharedmemory:
+	$(CC) $@.c --output $(BIN)/$@
 
-run-:
+run-sharedmemory: sharedmemory
+	$(BIN)/sharedmemory
 
 clean:
 	rm bin/*
+	$(RM) /dev/shm/shared-memory-experiment
 
 .PHONY: clean
